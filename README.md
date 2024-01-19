@@ -1,2 +1,2 @@
-### Key Logger Hidden In Youtube Downloader
+# Key Logger Hidden In Youtube Downloader
 The Key logger is hidden in the data.dat file in the youtube Downloader. When user runs the fully functioning youtube downloader, it asks for Storage permissions. And when it is running with elevated user, it start the key logger and put it in the start up. Window 11 latest version do detect it though but older version of win 11 and Win 10 ddo not detect it.
